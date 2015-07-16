@@ -9,8 +9,7 @@ Some of them might still be in development.
 
 ## Tool used
 
-* wapiflapi's [binexpect](https://github.com/wapiflapi/binexpect)
-** helps debugging and interacting with binaries.
+* wapiflapi's [binexpect](https://github.com/wapiflapi/binexpect) helps debugging and interacting with binaries.
 
 ## State
 
